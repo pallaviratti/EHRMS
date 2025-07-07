@@ -1,0 +1,32 @@
+<?php
+echo "<div class='div-class'>";
+echo "<a href='index.php' Value='Home'>Home</a>";
+echo "<a href='division_register.php' Value='Register'>Register Division Details</a>";
+echo "<a href='division_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='division_edit.php' Value='View'>Edit Division Details</a>";
+echo "<a href='division_delete.php' Value='View'>Delete Division Details</a><br><br>";
+echo "<a href='electionrole_register.php' Value='Register'>Register Electionrole Details</a>";
+echo "<a href='electionrole_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='electionrole_edit.php' Value='View'>Edit Electionrole Details</a>";
+echo "<a href='electionrole_delete.php' Value='View'>Delete Electionrole Details</a><br><br>";
+echo "<a href='mandal_register.php' Value='Register'>Register Mandal Details</a>";
+echo "<a href='mandal_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='mandal_edit.php' Value='View'>Edit Mandal Details</a>";
+echo "<a href='mandal_delete.php' Value='View'>Delete Mandal Details</a><br><br>";
+echo "<a href='gender_register.php' Value='Register'>Register Gender Details</a>";
+echo "<a href='gender_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='gender_edit.php' Value='View'>Edit Gender Details</a>";
+echo "<a href='gender_delete.php' Value='View'>Delete Gender Details</a><br><br>";
+echo "<a href='office_register.php' Value='Register'>Register Office Details</a>";
+echo "<a href='office_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='office_edit.php' Value='View'>Edit Office Details</a>";
+echo "<a href='office_delete.php' Value='View'>Delete Office Details</a><br><br>";
+echo "<a href='emp_type_register.php' Value='Register'>Register Employee Type Details</a>";
+echo "<a href='emp_type_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='emp_type_edit.php' Value='Edit'>Edit Employee Type Details</a>";
+echo "<a href='emp_type_delete.php' Value='Delete'>Delete Employee Type Details</a><br><br>";
+echo "<a href='emp_register.php' Value='Register'>Register Employee Type Details</a>";
+echo "<a href='emp_view.php' Value='View'>View Registered Details</a>";
+echo "<a href='emp_edit.php' Value='Edit'>Edit Employee Details</a>";
+echo "<a href='emp_delete.php' Value='Delete'>Delete Employee Details</a><br><br></div>";
+?>
